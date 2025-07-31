@@ -1,0 +1,41 @@
+{
+    "info": {
+        "artifact_uri": "dbfs:/databricks/mlflow-tracking/2943539922945557/1b73e59ede0b4bf18d2dc1962a45b57c/artifacts",
+        "end_time": 1753992547655,
+        "experiment_id": "2943539922945557",
+        "lifecycle_stage": "active",
+        "run_id": "1b73e59ede0b4bf18d2dc1962a45b57c",
+        "run_name": "marvel-demo-run",
+        "start_time": 1753992546938,
+        "status": "FINISHED",
+        "user_id": ""
+    },
+    "data": {
+        "metrics": {
+            "metric1": 1.0,
+            "metric2": 2.0
+        },
+        "params": {
+            "type": "marvel_demo"
+        },
+        "tags": {
+            "git_sha": "1234567890abcd",
+            "mlflow.databricks.cluster.id": "0731-194213-h96r0hpv-v2n",
+            "mlflow.databricks.cluster.info": "{\"cluster_name\":\"\",\"spark_version\":\"16.4.x-photon-scala2.12\",\"autotermination_minutes\":120}",
+            "mlflow.databricks.cluster.libraries": "{\"installable\":[],\"redacted\":[]}",
+            "mlflow.note.content": "marvel character prediction demo run",
+            "mlflow.runColor": "#da4c4c",
+            "mlflow.runName": "marvel-demo-run",
+            "mlflow.source.name": "c:\\Users\\dario.antolini\\OneDrive - Avanade\\personal-projects\\marvel-characters\\marvel-characters\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+            "mlflow.source.type": "LOCAL",
+            "mlflow.user": "darko_93@hotmail.it"
+        }
+    },
+    "inputs": {
+        "model_inputs": [],
+        "dataset_inputs": []
+    },
+    "outputs": {
+        "model_outputs": []
+    }
+}
